@@ -3,7 +3,7 @@ layout: post
 title:  "Vodafone Intership 21/22"
 tags: 
 - Internship
-image: assets\files\vodafone.png
+image: vodafone.png
 
 ---
 **Duration**: 6 months

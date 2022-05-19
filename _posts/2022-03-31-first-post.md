@@ -3,7 +3,7 @@ layout: post
 title:  "Designing a vegan product discovery app "
 tags: 
 - Conceptual Project
-image: assets/files/achadosveganos.png
+image: achadosveganos.png
 ---
 
 ![image tooltip here](/assets/files/achadosveganosmain.png)

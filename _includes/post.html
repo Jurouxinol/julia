@@ -5,7 +5,7 @@
   {%- for post in site.posts -%}
     <li>
       <a class="img-link" href="{{ post.url | relative_url }}">
-        <div class="img-wrapper"><img src="{{ post.image | relative_url }}" alt=""></div>
+        <div class="img-wrapper"><img src="{{ site.baseurl }}/assets/files/{{ post.image }}" alt=""></div>
       </a>
     <h4 class="post-link">
       <a href="{{ post.url | relative_url }}">
