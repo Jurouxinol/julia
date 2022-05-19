@@ -3,10 +3,10 @@ layout: post
 title:  "Designing a vegan product discovery app "
 tags: 
 - Conceptual Project
-image: assets\files\achadosveganos.png
+image: assets/files/achadosveganos.png
 ---
 
-![image tooltip here](\assets\files\achadosveganosmain.png)
+![image tooltip here](/assets/files/achadosveganosmain.png)
 
 **Duration:** 3 months
 
@@ -68,3 +68,6 @@ Key Insights:
 - "Sometimes it takes me hours to find information about some products." **-L.M.**
 - "I look for information on blogs, but I don't trust it too much." **-L.A.**
 - "I don't think I have enough information to say that I'm vegan." **-A.L.**
+
+## Define
+
