@@ -6,7 +6,7 @@ tags:
 image: achadosveganos.png
 ---
 
-![image tooltip here](/assets/files/achadosveganosmain.png)
+![image tooltip here]({{ site.baseurl }}/assets/files/achadosveganosmain.png)
 
 **Duration:** 3 months
 
