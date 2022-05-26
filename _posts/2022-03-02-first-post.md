@@ -2,7 +2,7 @@
 layout: post
 title:  "Designing a vegan product discovery app "
 tags: 
-- Conceptual Project
+- UI/UX Design
 image: achadosveganos.png
 ---
 
