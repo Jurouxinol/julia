@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Designing a vegan product discovery app "
+title:  "Achados Veganos - Vegan App"
 tags: 
 - UI/UX Design
 image: achadosveganos.png
