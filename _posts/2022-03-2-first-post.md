@@ -45,7 +45,7 @@ The main findings were:
 - Don't have data on national brands, which makes it difficult to search for products.
 - Very focused on just one segment. Some apps have a feature to search for products, however, they only cover cosmetics or food. 
 
-![image tooltip here](\assets\files\achadosveganoscompetitors.png)
+![image tooltip here]({{ site.baseurl }}/assets/files/achadosveganoscompetitors.png)
 
 #### Quantitative Survey
 
