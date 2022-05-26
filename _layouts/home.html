@@ -2,20 +2,10 @@
 layout: default
 ---
 
-<div class="home">
-  <div class="container">
-    <h4>Brazilian Product Designer in Lisbon, PT</h4>
-    <h1>Hello, I'm Júlia Rouxinol</h1>
-    <p> Currently designing at KITO Health. Previously at Vodafone Portugal as a UX Intern. Finishing the DXD Post Graduation at the University of Lisbon.</p>
-  </div>
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+{%- include hero.html -%}
 
-  {{ content }}
-
-  {%- include post.html -%}
-
-
-
+<div class="content-wrapper">
+    <h2>Latest Works</h2>
+    {%- include post.html -%}
 </div>
+

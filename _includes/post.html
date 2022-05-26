@@ -1,18 +1,16 @@
-<div class="container">
   {%- if site.posts.size > 0 -%}
-<h2>Latest work</h2>
-<ul class="post-list">
+<ul class="post-wrapper">
   {%- for post in site.posts -%}
     <li>
-      <a class="img-link" href="{{ post.url | relative_url }}">
+      <a href="{{ post.url | relative_url }}">
         <div class="img-wrapper"><img src="{{ site.baseurl }}/assets/files/{{ post.image }}" alt=""></div>
       </a>
-    <h4 class="post-link">
+    <h4>
       <a href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
       </a>
     </h4>
-    <p class="post-meta">{{ post.tags }}</p>
+    <p class="small-body">{{ post.tags }}</p>
     {%- if site.show_excerpts -%}
       {{ post.excerpt }}
     {%- endif -%}
@@ -20,4 +18,6 @@
   {%- endfor -%}
 </ul>
 {%- endif -%}
-</div>
+
+
+

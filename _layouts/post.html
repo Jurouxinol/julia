@@ -2,15 +2,9 @@
 layout: default
 ---
 
-  <article class="post h-entry"
-           itemscope
-           itemtype="http://schema.org/BlogPosting">
-    <header class="post-header">
-      <h2
-          itemprop="name headline">{{ page.title | escape }}</h2>
-    </header>
-    <div class="post-content e-content"
-         itemprop="articleBody">
+  <article class="content-wrapper">
+    <h2>{{ page.title | escape }}</h2>
+    <div class="post-content">
       {{ content }}
     </div>{%- if site.disqus.shortname -%} {%- include disqus_comments.html -%} {%- endif -%}
   </article>
