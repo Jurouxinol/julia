@@ -152,13 +152,31 @@ svg.puzzle-piece {
     width: 115.76px;
     height: 117.11px;
     right: 20%;
-    top: 35%; 
+    top: 35%;
+
+    @media  {
+        
+    }
+    animation: rotate-animation 10s infinite linear;
+
+    @keyframes rotate-animation {
+        0% {
+            transform: rotate(0deg);
+      }
+      50% {
+            transform: rotate(180deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
     
 
-    @media (min-width: 990px) {
+    @include media-query($on-laptop) {
         z-index: 1;
         right: 20%;
         top: 17%;
+        animation: none;
         transition: transform , 2s;
     }
 
