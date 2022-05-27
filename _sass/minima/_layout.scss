@@ -15,8 +15,14 @@
     align-items: center;
 }
 
+
+
 .post-content {
     margin-bottom: $spacing-l;
+
+    a {
+        text-decoration: underline;
+    }
 }
 
 /**
