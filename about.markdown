@@ -12,5 +12,5 @@ I grew up in the countryside of São Paulo and currently live in Lisbon where my
 
 Apart from my work, when I’m not behind my MacBook, you can see me hanging out with my friends and family. You can also find me playing acoustic guitar and trying to sing.
 
-[Download full resumé]({{ 'resume' | relative_url }})
+[Download full resumé](https://drive.google.com/file/d/1pcJnopLB4nII2TxNFJar6pBz17LG0bu1/view?usp=sharing)
 

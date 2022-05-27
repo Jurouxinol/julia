@@ -1,23 +1,28 @@
-{%- if site.posts.size > 0 -%}
-<ul class="post-wrapper">
-  {%- for post in site.posts -%}
-    <li>
-      <a href="{{ post.url | relative_url }}">
-        <div class="img-wrapper"><img src="{{ site.baseurl }}/assets/files/{{ post.image }}" alt=""></div>
-      </a>
-    <h4>
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </h4>
-    <p class="small-body">{{ post.tags }}</p>
-    {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
-    {%- endif -%}
-  </li>
-  {%- endfor -%}
-</ul>
-{%- endif -%}
+<div class="content-wrapper">
+  <h2>Latest Works</h2>
+  {%- if site.posts.size > 0 -%}
+  <ul class="post-wrapper">
+    {%- for post in site.posts -%}
+      <li>
+        <a href="{{ post.url | relative_url }}">
+          <div class="img-wrapper"><img src="{{ site.baseurl }}/assets/files/{{ post.image }}" alt=""></div>
+        </a>
+      <h4>
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h4>
+      <p class="small-body">{{ post.tags }}</p>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+</div>
+
+
 
 
 
