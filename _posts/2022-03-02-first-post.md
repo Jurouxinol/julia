@@ -71,3 +71,27 @@ Key Insights:
 
 ## Define
 
+### Personas and Empathy Map
+
+The information collected during the research process enabled the creation of two personas and their respective empathy maps. Both of them have profiles that fit the result gathered during the research phase and will support future design decisions for the product.
+
+### Job Stories
+
+In this phase, I defined the major actions that users would need to accomplish to achieve the desired goal when using the platform. I defined the major problems diagnosed during the research process, understanding the context, what would motivate the user to use this functionality and the expected result of this action. Some objects were:
+
+- Search for products;
+- Explore new products;
+- Receive recommendations;
+- Save products to buy it later;
+- Know if a product is good;
+- Evaluate a product;
+
+This method was mainly used to list the main user actions when using the platform, which was used in the information architecture process. Besides that, it helped to define the MVP (minimum viable product) aligned with the needs of the personas created previously.
+
+### User Flow and Sitemap
+
+I created a Sitemap to illustrate the hierarch inside the app. After that, o illustrate the navigation flow, I have detailed the main and secondary journeys to be followed by users. Despite later changes, this step was crucial to have a logical starting point for the information architecture.
+
+### Wireframes
+
+After finishing the initial sketches, I migrated to Figma and started creating the screens where I could define the structure of the application's content, the components to be used, and how they talk to the user. Besides that, I created the major interactions that allowed for navigation between the major segments of the platform.
