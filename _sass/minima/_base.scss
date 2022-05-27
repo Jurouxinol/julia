@@ -50,19 +50,19 @@
 
 a {
   text-decoration: none;
-  color: $text-color;
+  color: getColor(text-color);
 }
 
 .small-uppercase {
    font-size: $small-font-size;
-   color: $grey-color-dark;
+   color: getColor(grey-color-dark);
    text-transform: uppercase;
    font-weight: $bold-font-weight;
 }
 
 .small-body {
   font-size: $small-font-size;
-  color: $grey-color-dark;
+  color: getColor(grey-color-dark);
  }
 
  
@@ -97,7 +97,7 @@ a {
 
 	&:hover {
 		transform: translateY(-5px);
-    color: $text-color;
+    color: getColor(text-color);
 	}
 }
 
@@ -109,8 +109,8 @@ a {
  
 body {
     font-family: $base-font-family;
-    color: $text-color;
-    background-color: $background-color;
+    color: getColor(text-color);
+    background-color: getColor(background-color);
     display: flex;
     min-height: 100vh;
     flex-direction: column;
