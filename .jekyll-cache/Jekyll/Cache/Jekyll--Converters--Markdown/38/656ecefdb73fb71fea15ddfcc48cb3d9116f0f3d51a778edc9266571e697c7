@@ -1,0 +1,74 @@
+I"<p><img src="/julia/assets/files/achadosveganosmain.png" alt="image tooltip here" /></p>
+
+<p><strong>Duration:</strong> 3 months</p>
+
+<p><strong>Expertise:</strong> UX/UI Design</p>
+
+<p><strong>Tools:</strong> Figma</p>
+
+<h3 id="project-overview">Project Overview</h3>
+
+<p>The case study presented here was <strong>my first UX case study</strong> and was developed during the UX Design course at Awari, mentored by <a href="https://www.linkedin.com/in/veronica-sartori/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&amp;originalSubdomain=br">Veronica Sartori</a></p>
+
+<p>The choice of topic came from the observation of the behavior of vegetarians and vegans, as well as their cooking and shopping habits and how it affects their lives. Thus, <strong><em>Achados Veganos</em></strong> was born: a collaborative platform that helps users discover vegan products. Below, you will read the complete description of how the product was conceived, with a step-by-step analysis of all the Design processes adopted, ending with a high-fidelity navigable prototype.</p>
+
+<h3 id="evidence-for-the-problem">Evidence For The Problem</h3>
+
+<p><strong>The vegan market is booming.</strong> According to the <a href="https://www.thebusinessresearchcompany.com/report/vegan-market-global-report-2020-30-covid-19-growth-and-change">Vegan Food Global Market Report 2021</a>, it is expected to grow by $1.33 billion in 2021. Google AdWords data shows that the number of related searches grew 47% in 2020 compared to the previous year. In addition, from 2015 to 2020, this increase was over 2000% in global searches, according to <a href="https://www.portalveg.com.br/noticias/veganismo/buscas-no-google-por-comida-vegana-crescem-mais-de-2000-em-cinco-anos/">research developed by the company Thorthful</a>. According to <a href="https://a0193a7b-04c0-45e2-b939-b1033d2f1ed3.filesusr.com/ugd/0c5d00_22b94849e85e4be78675ff3e5c806f43.pdf">Baum+Whiteman’s</a> 2021 trend report, which predicts which foods and beverages are at the highest in 2021, “vegan and vegetarian product sales are skyrocketing” (free translation).</p>
+
+<p>Despite being a growing market, these consumers still face several problems, and, according to a survey by <a href="https://faunalytics.org/a-summary-of-faunalytics-study-of-current-and-former-vegetarians-and-vegans/">Faunalytics</a>, <strong>around 84% abandon this way of life</strong>. This study presents several reasons people abandon veganism and why they would consider trying again, and food is a major factor. People who abandoned veganism/vegetarianism were mostly dissatisfied with their food, and food would be a decisive factor to return.</p>
+
+<h2 id="discovery">Discovery</h2>
+
+<h3 id="research-strategy">Research Strategy</h3>
+
+<p>To better understand my audience and current scenario, I used the following research methods:</p>
+
+<ul>
+  <li>Competitor analysis</li>
+  <li>Quantitative survey</li>
+  <li>Qualitative interview</li>
+</ul>
+
+<h4 id="competitors-analisys">Competitors Analisys</h4>
+
+<p>The main findings were:</p>
+
+<ul>
+  <li>Most apps don’t have a Portuguese version.</li>
+  <li>Don’t work well and that’s why there are a lot of negative comments on the ratings.</li>
+  <li>Don’t have data on national brands, which makes it difficult to search for products.</li>
+  <li>Very focused on just one segment. Some apps have a feature to search for products, however, they only cover cosmetics or food.</li>
+</ul>
+
+<p><img src="/julia/assets/files/achadosveganoscompetitors.png" alt="image tooltip here" /></p>
+
+<h4 id="quantitative-survey">Quantitative Survey</h4>
+
+<p>For this stage, I created a questionnaire that had 206 responses, leading to a confidence level of 85% with a margin of error of 5%.</p>
+
+<p>Some interesting data:</p>
+
+<ul>
+  <li>72% want to become vegan</li>
+  <li>36% said that having the information faster and more concentrated could make their life easier</li>
+  <li>92% said that they use Google to find information</li>
+  <li>The biggest difficulty pointed out was “food” followed because the information is very dispersed</li>
+</ul>
+
+<h4 id="qualitative-interviews">Qualitative Interviews</h4>
+
+<p>After gathering the data acquired in the quantitative survey, I interview 6 people: 1 vegan, 1 vegetarian, 2 ovolactovegetarians, and 2 flexitarian/sympathizers. The interview took about 30min and was done by video.</p>
+
+<p>Key Insights:</p>
+
+<ul>
+  <li>“My process of becoming a vegan was very natural and in my time.” <strong>-A.F.</strong></li>
+  <li>“Sometimes it takes me hours to find information about some products.” <strong>-L.M.</strong></li>
+  <li>“I look for information on blogs, but I don’t trust it too much.” <strong>-L.A.</strong></li>
+  <li>“I don’t think I have enough information to say that I’m vegan.” <strong>-A.L.</strong></li>
+</ul>
+
+<h2 id="define">Define</h2>
+
+:ET
