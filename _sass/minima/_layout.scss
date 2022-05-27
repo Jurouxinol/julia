@@ -87,7 +87,8 @@
 }
 
 @media only screen and (max-width: 768px) {
-    .nav-menu {
+
+    ul.nav-menu {
         position: fixed;
         left: -120%;
         top: 5rem;
@@ -100,12 +101,11 @@
         text-align: center;
         transition: 0.3s;
         z-index: 9;
-    }
-
-    ul {
         padding: 0;
         margin: 0;
     }
+
+
 
     .nav-menu.active {
         left: 0;
