@@ -6,7 +6,7 @@ tags:
 image: achadosveganos.png
 ---
 
-![image tooltip here]({{ site.baseurl }}/assets/files/achadosveganosmain.png)
+![image with mockups for the app]({{ site.baseurl }}/assets/files/achadosveganosmain.png)
 
 **Duration:** 3 months
 
@@ -45,7 +45,7 @@ The main findings were:
 - Don't have data on national brands, which makes it difficult to search for products.
 - Very focused on just one segment. Some apps have a feature to search for products, however, they only cover cosmetics or food. 
 
-![image tooltip here]({{ site.baseurl }}/assets/files/achadosveganoscompetitors.png)
+![image illustrating the competitors]({{ site.baseurl }}/assets/files/achadosveganoscompetitors.png)
 
 #### Quantitative Survey
 
@@ -95,3 +95,4 @@ I created a Sitemap to illustrate the hierarch inside the app. After that, o ill
 ### Wireframes
 
 After finishing the initial sketches, I migrated to Figma and started creating the screens where I could define the structure of the application's content, the components to be used, and how they talk to the user. Besides that, I created the major interactions that allowed for navigation between the major segments of the platform.
+
