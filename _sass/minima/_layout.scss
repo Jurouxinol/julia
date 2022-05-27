@@ -168,8 +168,8 @@ svg.puzzle-piece {
 
     @include media-query($on-laptop) {
         z-index: 1;
-        right: 20%;
-        top: 17%;
+        right: 15%;
+        top: 22%;
         animation: none;
         transition: transform , 2s;
     }
