@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Works
-permalink: /works/
+title: Projects
+permalink: /Projects/
 ---
 {%- include post.html -%}
