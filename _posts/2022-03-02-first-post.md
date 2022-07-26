@@ -73,7 +73,9 @@ Key Insights:
 
 ### Personas and Empathy Map
 
-The information collected during the research process enabled the creation of two personas and their respective empathy maps. Both of them have profiles that fit the result gathered during the research phase and will support future design decisions for the product.
+The information collected during the research process enabled the creation of two different depersonas and their respective empathy maps. Both of them have profiles that fit the result gathered during the research phase and will support future design decisions for the product.
+
+![image illustrating the competitors]({{ site.baseurl }}/assets/files/personasachadosveganos.png)
 
 ### Job Stories
 
@@ -92,7 +94,24 @@ This method was mainly used to list the main user actions when using the platfor
 
 I created a Sitemap to illustrate the hierarch inside the app. After that, o illustrate the navigation flow, I have detailed the main and secondary journeys to be followed by users. Despite later changes, this step was crucial to have a logical starting point for the information architecture.
 
+![image illustrating the competitors]({{ site.baseurl }}/assets/files/achadosveganossitemap.png)
+
 ### Wireframes
 
 After finishing the initial sketches, I migrated to Figma and started creating the screens where I could define the structure of the application's content, the components to be used, and how they talk to the user. Besides that, I created the major interactions that allowed for navigation between the major segments of the platform.
+
+![image illustrating the competitors]({{ site.baseurl }}/assets/files/achadosveganoswireframes.png)
+
+
+### Prototype
+
+After finishing the wireframes, I started creating the high fidelity prototype. You can find the final prototype of this project [here](https://www.figma.com/proto/G7OhfuWoSUdzzbecTOforL/Prot%C3%B3tipo?node-id=755%3A2164&scaling=scale-down&page-id=337%3A44&starting-point-node-id=384%3A736).
+
+![image illustrating the prototype]({{ site.baseurl }}/assets/files/achadosveganosprototype.png)
+
+## What I Learned in This UX Case of Study
+
+This was my first, so I’m very happy with the result of the project and with all the knowledge acquired through this challenge. The entire process was a challenge and I’m proud that I could defeat it.
+
+One of the main learnings was: never fall in love with your solution. I started this UX case thinking that I would create a recipe app, however, I ended up with some completely different which I'm very proud off. 
 
